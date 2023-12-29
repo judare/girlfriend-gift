@@ -1,0 +1,27 @@
+{
+  "code": "2794",
+  "levels": [{
+    "title": "Soy flaco y alto, sirvo para dar luz, generalmente se la doy a gente que no está en su lugar de reposo.",
+    "tip": "Al lado mío encontrarás mucho césped, también estoy cerca de las aguas.",
+    "place": "Poste al lado de la piscina",
+    "number": 2
+  },
+  {
+    "title": "Limpio limpio sin cesar, nadie se preocupa por mí, es más, solo me llega cada día más trabajo, y en los momentos en que más disfrutas, más debo trabajar. Verte sucio no me gusta porque me vas a hacer esforzar.",
+    "tip": "Me encontrarás en un cuarto que no se suele abrir",
+    "place": "Lavadora",
+    "number": 7
+  },
+  {
+    "title": "Soy un mensaje de nuestras conversaciones, pero lastimosamente me tropecé en el camino y todas mis letras se desplazaron una posición en el alfabeto... ayúdame a entender quién soy.",
+    "tip": "28 diciembre 9:30pm",
+    "place": "Poste al lado de la piscina",
+    "number": 9
+  },
+  {
+    "title": "sirvo de reposo para las ideas, a veces para el sueño y a veces para el llanto. busca por dentro de ti, o de mi.",
+    "tip": "Cuarto principal",
+    "place": "dentro de la almohada",
+    "number": 4
+  }]
+}
